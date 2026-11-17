@@ -1,100 +1,100 @@
-{"id": "S0301", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0302", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0303", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0304", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0305", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0306", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0307", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0308", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0309", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0310", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0311", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0312", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0313", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0314", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0315", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0316", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0317", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0318", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0319", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0320", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0321", "pipeline": "solidcraft", "outcome": "wrong-refusal", "version": "solidcraft-cli 0.43.0", "link": "https://github.com/tangency-labs/solidcraft/issues/18274"}
-{"id": "S0322", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0323", "pipeline": "solidcraft", "outcome": "hang", "version": "solidcraft-cli 0.43.0", "link": "https://github.com/tangency-labs/solidcraft/issues/18270"}
-{"id": "S0324", "pipeline": "solidcraft", "outcome": "correct-refusal", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0325", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0326", "pipeline": "solidcraft", "outcome": "correct-refusal", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0327", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0328", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0329", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0330", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0331", "pipeline": "solidcraft", "outcome": "wrong-refusal", "version": "solidcraft-cli 0.43.0", "link": "https://github.com/dutchman-cad/stress-corpus/issues/110"}
-{"id": "S0332", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0333", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0334", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0335", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0336", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0337", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0338", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0339", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0340", "pipeline": "solidcraft", "outcome": "correct-refusal", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0341", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0342", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0343", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0344", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0345", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0346", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0347", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0348", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0349", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0350", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0351", "pipeline": "solidcraft", "outcome": "correct-refusal", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0352", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0353", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0354", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0355", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0356", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0357", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0358", "pipeline": "solidcraft", "outcome": "wrong-refusal", "version": "solidcraft-cli 0.43.0", "link": "https://github.com/tangency-labs/solidcraft/issues/18278"}
-{"id": "S0359", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0360", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0361", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0362", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0363", "pipeline": "solidcraft", "outcome": "correct-refusal", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0364", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0365", "pipeline": "solidcraft", "outcome": "correct-refusal", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0366", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0367", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0368", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0369", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0370", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0371", "pipeline": "solidcraft", "outcome": "wrong-refusal", "version": "solidcraft-cli 0.43.0", "link": "https://github.com/dutchman-cad/stress-corpus/issues/109"}
-{"id": "S0372", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0373", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0374", "pipeline": "solidcraft", "outcome": "correct-refusal", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0375", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0376", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0377", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0378", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0379", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0380", "pipeline": "solidcraft", "outcome": "wrong-refusal", "version": "solidcraft-cli 0.43.0", "link": "https://github.com/tangency-labs/solidcraft/issues/18274"}
-{"id": "S0381", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0382", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0383", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0384", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0385", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0386", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0387", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0388", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0389", "pipeline": "solidcraft", "outcome": "wrong-refusal", "version": "solidcraft-cli 0.43.0", "link": "https://github.com/tangency-labs/solidcraft/issues/18277"}
-{"id": "S0390", "pipeline": "solidcraft", "outcome": "correct-refusal", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0391", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0392", "pipeline": "solidcraft", "outcome": "correct-refusal", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0393", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0394", "pipeline": "solidcraft", "outcome": "wrong-refusal", "version": "solidcraft-cli 0.43.0", "link": "https://github.com/dutchman-cad/stress-corpus/issues/109"}
-{"id": "S0395", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0396", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0397", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0398", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0399", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
-{"id": "S0400", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "link": ""}
+{"id": "S0301", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 46575.57917392467, "bodies": 1, "faces": 13, "edges": 21, "vertices": 14}}
+{"id": "S0302", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 523598775.60805917, "bodies": 2, "faces": 13, "edges": 17, "vertices": 12}}
+{"id": "S0303", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 3265651195.801586, "bodies": 1, "faces": 18, "edges": 34, "vertices": 22}}
+{"id": "S0304", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 46736.29266179285, "bodies": 2, "faces": 17, "edges": 30, "vertices": 20}}
+{"id": "S0305", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": ""}
+{"id": "S0306", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 26.386792406455516, "bodies": 1, "faces": 16, "edges": 37, "vertices": 24}}
+{"id": "S0307", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 50997.197085205305, "bodies": 2, "faces": 16, "edges": 25, "vertices": 16}}
+{"id": "S0308", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 29.47490781533721, "bodies": 1, "faces": 15, "edges": 36, "vertices": 24}}
+{"id": "S0309", "pipeline": "solidcraft", "outcome": "correct-refusal", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "signature": "invalid input: not supported yet: this variable fillet, which SMLib cannot build exactly with the SMLib kernel (a picked edge continues tangentially into the edge at (18.996, 6.257, 60.000), which is not blended with it, and the blend cannot end there: with tangent propagation on, tangent_chain: true, its tangent chain is blended as one) @ solid.fillet"}
+{"id": "S0310", "pipeline": "solidcraft", "outcome": "wrong-refusal", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "signature": "invalid input: not supported yet: this variable fillet, which SMLib cannot build exactly with the SMLib kernel @ solid.fillet"}
+{"id": "S0311", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 47022.37984579187, "bodies": 1, "faces": 17, "edges": 36, "vertices": 23}}
+{"id": "S0312", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": ""}
+{"id": "S0313", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 785.394130520008, "bodies": 1, "faces": 9, "edges": 15, "vertices": 10}}
+{"id": "S0314", "pipeline": "solidcraft", "outcome": "wrong-refusal", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "signature": "SMLib boolean: operation: SMLib's result is not a closed solid @ solid.cylinder"}
+{"id": "S0315", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": ""}
+{"id": "S0316", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 863963947.6655725, "bodies": 1, "faces": 10, "edges": 20, "vertices": 13}}
+{"id": "S0317", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 58638.7358314992, "bodies": 1, "faces": 20, "edges": 39, "vertices": 26}}
+{"id": "S0318", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": ""}
+{"id": "S0319", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 58709.89516611001, "bodies": 1, "faces": 7, "edges": 14, "vertices": 9}}
+{"id": "S0320", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 6454900266.174463, "bodies": 2, "faces": 13, "edges": 17, "vertices": 12}}
+{"id": "S0321", "pipeline": "solidcraft", "outcome": "wrong-refusal", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "https://github.com/tangency-labs/solidcraft/issues/18274", "signature": "body `Part`: the operation failed: SMLib boolean: SMLib's check refuses the result: 1 failed tests: SmFace::Test #36 Face Near missing Seam: Face Surface Seam has suspicious Edge near seam [owner SmFace] @ solid.cylinder"}
+{"id": "S0322", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 27.934344211547607, "bodies": 1, "faces": 10, "edges": 23, "vertices": 15}}
+{"id": "S0323", "pipeline": "solidcraft", "outcome": "hang", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "https://github.com/tangency-labs/solidcraft/issues/18270", "signature": "no result in 120 s @ the whole script"}
+{"id": "S0324", "pipeline": "solidcraft", "outcome": "correct-refusal", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "signature": "not supported yet: tessellation: face 0 (torus): tessellation: edge 0: more than 20000 nodes @ solid.cylinder"}
+{"id": "S0325", "pipeline": "solidcraft", "outcome": "wrong-refusal", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "https://github.com/dutchman-cad/stress-corpus/issues/109", "signature": "invalid input: the edge at (0.000, -0.500, 500.000) is smooth: its faces meet tangentially, so there is nothing to round @ solid.fillet"}
+{"id": "S0326", "pipeline": "solidcraft", "outcome": "correct-refusal", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "signature": "SMLib shell: operation: the offset is refused: its offset by 0.18 collapses (a radius of curvature 0.17999999999999897) @ solid.shell"}
+{"id": "S0327", "pipeline": "solidcraft", "outcome": "correct-refusal", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "signature": "invalid input: not supported yet: this variable fillet, which SMLib cannot build exactly with the SMLib kernel @ solid.fillet"}
+{"id": "S0328", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": ""}
+{"id": "S0329", "pipeline": "solidcraft", "outcome": "correct-refusal", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "signature": "SMLib fillet: operation: the blend failed (status 1001): the fillet body is not built: Fillet Corner Error: Unable to Compute Geometry @ solid.fillet"}
+{"id": "S0330", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": ""}
+{"id": "S0331", "pipeline": "solidcraft", "outcome": "wrong-refusal", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "https://github.com/dutchman-cad/stress-corpus/issues/110", "signature": "not supported yet: the fillet is larger than the faces beside its edges allow, at the edge at (-10.000, -0.000, 50.000): the blend runs off a face into the material; the largest radius that fits is 0.92 mm @ solid.fillet"}
+{"id": "S0332", "pipeline": "solidcraft", "outcome": "wrong-refusal", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "signature": "body `Part`: the operation failed: SMLib boolean: SMLib's check refuses the result: 2 failed tests: SmSurfOfRevolution::Test #2 Parameterization: Bad GenCurve Anal and NURB intervals don't match appropriate Surface Domain Intervals (tolerance= 1e-12) [owner SmTorus] @ solid.sweep"}
+{"id": "S0333", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": ""}
+{"id": "S0334", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 30.126720149958217, "bodies": 1, "faces": 8, "edges": 16, "vertices": 11}}
+{"id": "S0335", "pipeline": "solidcraft", "outcome": "wrong-refusal", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "https://github.com/tangency-labs/solidcraft/issues/18239", "signature": "SMLib shell: operation: the offset is refused: its offset by 0.24 collapses (a radius of curvature 0.1999999999999997) @ solid.shell"}
+{"id": "S0336", "pipeline": "solidcraft", "outcome": "correct-refusal", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "signature": "invalid input: not supported yet: this variable fillet, which SMLib cannot build exactly with the SMLib kernel (a picked edge continues tangentially into the edge at (0.475, 0.156, 1000.000), which is not blended with it, and the blend cannot end there: with tangent propagation on, tangent_chain: true, its tangent chain is blended as one) @ solid.fillet"}
+{"id": "S0337", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 3605.8187315675254, "bodies": 2, "faces": 7, "edges": 9, "vertices": 6}}
+{"id": "S0338", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 177.2587265475503, "bodies": 1, "faces": 12, "edges": 17, "vertices": 11}}
+{"id": "S0339", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 28.0368294777519, "bodies": 1, "faces": 7, "edges": 11, "vertices": 7}}
+{"id": "S0340", "pipeline": "solidcraft", "outcome": "correct-refusal", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "signature": "SMLib shell: operation: the offset is refused: an edge of its offset closes to nothing: a vertex moves onto or past the edge's other end @ solid.shell"}
+{"id": "S0341", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 21.858447701268357, "bodies": 1, "faces": 15, "edges": 22, "vertices": 14}}
+{"id": "S0342", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": ""}
+{"id": "S0343", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 740402823.005723, "bodies": 1, "faces": 12, "edges": 22, "vertices": 14}}
+{"id": "S0344", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 50950.97303632715, "bodies": 1, "faces": 12, "edges": 20, "vertices": 14}}
+{"id": "S0345", "pipeline": "solidcraft", "outcome": "correct-refusal", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "signature": "SMLib shell: operation: SMLib failed (status 1001) @ solid.shell"}
+{"id": "S0346", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 59852.881878414664, "bodies": 2, "faces": 20, "edges": 36, "vertices": 24}}
+{"id": "S0347", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 3263315609.3913345, "bodies": 2, "faces": 17, "edges": 27, "vertices": 17}}
+{"id": "S0348", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 6.36330876676288, "bodies": 1, "faces": 10, "edges": 21, "vertices": 14}}
+{"id": "S0349", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 75891.62127633297, "bodies": 1, "faces": 17, "edges": 36, "vertices": 23}}
+{"id": "S0350", "pipeline": "solidcraft", "outcome": "hang", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "https://github.com/tangency-labs/solidcraft/issues/18270", "signature": "no result in 120 s @ the whole script"}
+{"id": "S0351", "pipeline": "solidcraft", "outcome": "correct-refusal", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "signature": "not supported yet: the fillet is larger than the faces beside its edges allow, at the edge at (1200.000, 0.000, 1000.000): the blend runs off a face into the material; the largest radius that fits is 64.9 mm @ solid.fillet"}
+{"id": "S0352", "pipeline": "solidcraft", "outcome": "correct-refusal", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "signature": "not supported yet: SMLib draft for this geometry @ solid.draft"}
+{"id": "S0353", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 24.0, "bodies": 2, "faces": 12, "edges": 24, "vertices": 16}}
+{"id": "S0354", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 3265927857.918035, "bodies": 2, "faces": 9, "edges": 11, "vertices": 7}}
+{"id": "S0355", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 785.3930954123281, "bodies": 2, "faces": 14, "edges": 18, "vertices": 12}}
+{"id": "S0356", "pipeline": "solidcraft", "outcome": "correct-refusal", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "signature": "invalid input: not supported yet: this variable fillet, which SMLib cannot build exactly with the SMLib kernel (a picked edge continues tangentially into the edge at (-0.000, 1.600, 1.200), which is not blended with it, and the blend cannot end there: with tangent propagation on, tangent_chain: true, its tangent chain is blended as one) @ solid.fillet"}
+{"id": "S0357", "pipeline": "solidcraft", "outcome": "correct-refusal", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "signature": "not supported yet: the fillet is larger than the faces beside its edges allow, at the edge at (-2.007, 0.093, 2.000): the blend runs off a face into the material; the largest radius that fits is 0.05 mm @ solid.fillet"}
+{"id": "S0358", "pipeline": "solidcraft", "outcome": "wrong-refusal", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "https://github.com/tangency-labs/solidcraft/issues/18278", "signature": "SMLib shell: SMLib's check refuses the result: 1 failed tests: SmTrimmingTools::Test #3 Loop Orientation: Face Loop has bad orientation [owner SmFace] @ solid.shell"}
+{"id": "S0359", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": ""}
+{"id": "S0360", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 96299.61505075362, "bodies": 2, "faces": 25, "edges": 51, "vertices": 34}}
+{"id": "S0361", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 30.380026210547776, "bodies": 1, "faces": 20, "edges": 39, "vertices": 26}}
+{"id": "S0362", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 75023.86068606561, "bodies": 1, "faces": 14, "edges": 24, "vertices": 16}}
+{"id": "S0363", "pipeline": "solidcraft", "outcome": "correct-refusal", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "signature": "not supported yet: the fillet is larger than the faces beside its edges allow, at the edge at (-10.000, -0.000, 50.000): the blend runs off a face into the material; the largest radius that fits is 0.157 mm @ solid.fillet"}
+{"id": "S0364", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": ""}
+{"id": "S0365", "pipeline": "solidcraft", "outcome": "correct-refusal", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "signature": "SMLib shell: operation: the offset is refused: its offset by 0.96 collapses (a radius of curvature 0.9499999999999911) @ solid.shell"}
+{"id": "S0366", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 587101335.3657639, "bodies": 1, "faces": 16, "edges": 33, "vertices": 22}}
+{"id": "S0367", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 24.187593721967147, "bodies": 1, "faces": 19, "edges": 41, "vertices": 26}}
+{"id": "S0368", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 96299.59123974976, "bodies": 1, "faces": 19, "edges": 44, "vertices": 28}}
+{"id": "S0369", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 46576.305514546475, "bodies": 2, "faces": 13, "edges": 17, "vertices": 11}}
+{"id": "S0370", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 11257.378492374983, "bodies": 1, "faces": 10, "edges": 18, "vertices": 11}}
+{"id": "S0371", "pipeline": "solidcraft", "outcome": "wrong-refusal", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "https://github.com/dutchman-cad/stress-corpus/issues/109", "signature": "invalid input: the edge at (0.000, -0.500, 500.000) is smooth: its faces meet tangentially, so there is nothing to round @ solid.chamfer"}
+{"id": "S0372", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": ""}
+{"id": "S0373", "pipeline": "solidcraft", "outcome": "correct-refusal", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "signature": "invalid input: not supported yet: this variable fillet, which SMLib cannot build exactly with the SMLib kernel @ solid.fillet"}
+{"id": "S0374", "pipeline": "solidcraft", "outcome": "correct-refusal", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "signature": "SMLib offset faces: operation: the offset is refused: how far its neighbours extend to meet it has no certified bound @ solid.offset_face"}
+{"id": "S0375", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 77332.42429902291, "bodies": 1, "faces": 16, "edges": 32, "vertices": 22}}
+{"id": "S0376", "pipeline": "solidcraft", "outcome": "hang", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "https://github.com/tangency-labs/solidcraft/issues/18270", "signature": "no result in 120 s @ the whole script"}
+{"id": "S0377", "pipeline": "solidcraft", "outcome": "wrong-refusal", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "signature": "not supported yet: SMLib draft for this geometry @ solid.draft"}
+{"id": "S0378", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": ""}
+{"id": "S0379", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": ""}
+{"id": "S0380", "pipeline": "solidcraft", "outcome": "wrong-refusal", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "https://github.com/tangency-labs/solidcraft/issues/18274", "signature": "body `Part`: the operation failed: SMLib boolean: SMLib's check refuses the result: 1 failed tests: SmFace::Test #36 Face Near missing Seam: Face Surface Seam has suspicious Edge near seam [owner SmFace] @ solid.cylinder"}
+{"id": "S0381", "pipeline": "solidcraft", "outcome": "wrong-refusal", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "https://github.com/dutchman-cad/stress-corpus/issues/109", "signature": "invalid input: the edge at (0.000, -0.500, 500.000) is smooth: its faces meet tangentially, so there is nothing to round @ solid.fillet"}
+{"id": "S0382", "pipeline": "solidcraft", "outcome": "correct-refusal", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "signature": "SMLib chamfer: operation: the blend failed (status 1001): the fillet body is not built: Fillet Surface Computation Failure: Fillet Face Creation Error (tangent propagation blended the picked edges' tangent chain with them; with it off, tangent_chain: false, only the picked edges are blended) @ solid.chamfer"}
+{"id": "S0383", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 3264198073.718075, "bodies": 2, "faces": 13, "edges": 17, "vertices": 12}}
+{"id": "S0384", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 6371018603.70127, "bodies": 1, "faces": 14, "edges": 23, "vertices": 16}}
+{"id": "S0385", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 23.98802241911967, "bodies": 1, "faces": 22, "edges": 45, "vertices": 30}}
+{"id": "S0386", "pipeline": "solidcraft", "outcome": "correct-refusal", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "signature": "not supported yet: the fillet is larger than the faces beside its edges allow, at the edge at (-16.357, -11.508, 60.000): the blend runs off a face into the material; the largest radius that fits is 0.219 mm @ solid.fillet"}
+{"id": "S0387", "pipeline": "solidcraft", "outcome": "skipped", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": ""}
+{"id": "S0388", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 23.930283741086534, "bodies": 1, "faces": 14, "edges": 24, "vertices": 16}}
+{"id": "S0389", "pipeline": "solidcraft", "outcome": "wrong-refusal", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "https://github.com/tangency-labs/solidcraft/issues/18277", "signature": "not supported yet: SMLib offset faces for this geometry @ solid.offset_face"}
+{"id": "S0390", "pipeline": "solidcraft", "outcome": "correct-refusal", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "signature": "not supported yet: SMLib draft for this geometry @ solid.draft"}
+{"id": "S0391", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 28.31466545574884, "bodies": 1, "faces": 6, "edges": 8, "vertices": 5}}
+{"id": "S0392", "pipeline": "solidcraft", "outcome": "correct-refusal", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "signature": "not supported yet: the fillet is larger than the faces beside its edges allow, at the edge at (2.000, 0.000, 2.000): the blend runs off a face into the material; the largest radius that fits is 0.1199 mm @ solid.fillet"}
+{"id": "S0393", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 18963.358454866528, "bodies": 1, "faces": 7, "edges": 15, "vertices": 10}}
+{"id": "S0394", "pipeline": "solidcraft", "outcome": "wrong-refusal", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "https://github.com/dutchman-cad/stress-corpus/issues/109", "signature": "invalid input: the edge at (0.000, -0.500, 500.000) is smooth: its faces meet tangentially, so there is nothing to round @ solid.fillet"}
+{"id": "S0395", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 523598775.6148779, "bodies": 1, "faces": 14, "edges": 32, "vertices": 21}}
+{"id": "S0396", "pipeline": "solidcraft", "outcome": "wrong-refusal", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "signature": "SMLib offset faces: operation: the offset is refused: how far its neighbours extend to meet it has no certified bound @ solid.offset_face"}
+{"id": "S0397", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 18920.736605322836, "bodies": 1, "faces": 10, "edges": 18, "vertices": 11}}
+{"id": "S0398", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 1522.131402130571, "bodies": 1, "faces": 10, "edges": 15, "vertices": 10}}
+{"id": "S0399", "pipeline": "solidcraft", "outcome": "correct-refusal", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "signature": "invalid input: not supported yet: this variable fillet, which SMLib cannot build exactly with the SMLib kernel @ solid.fillet"}
+{"id": "S0400", "pipeline": "solidcraft", "outcome": "correct", "version": "solidcraft-cli 0.43.0", "build": "solidcraft-cli 0.43.0", "link": "", "measured": {"volume_mm3": 3269431317.405658, "bodies": 2, "faces": 9, "edges": 11, "vertices": 7}}
